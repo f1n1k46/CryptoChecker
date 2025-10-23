@@ -16,19 +16,20 @@
 ---
 
 ## Screenshots 📱
-![Home](Assets/screenshots/home.png)
-![Favorites](Assets/screenshots/favorites.png)
-![Profile](Assets/screenshots/profile.png)
+![Home](Assets/Screenshots/home.png)
+![Favorites](Assets/Screenshots/favorites.png)
+![Profile](Assets/Screenshots/profile.png)
 
 ---
 
 ## Project Structure 📂
 ```
 CryptoChecker/
-├─ Models/          # Data models (CoinModel, CryptoModel)
-├─ ViewModels/      # Business logic and network handling
-├─ Views/           # SwiftUI views and UI components
-├─ Services/        # NetworkService, AuthService (Keychain)
+├─ Models/               # Data models (CoinModel, CryptoModel)
+├─ ViewModels/           # Business logic and network handling
+├─ Views/                # SwiftUI views and UI components
+├─ Services/             # NetworkService, AuthService (Keychain)
+├─ Assets/Screnshots     # Images, icons, and screenshots
 └─ Constants
 ```
 
