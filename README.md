@@ -47,6 +47,6 @@ CryptoChecker/
 
 - Swift 5+
 - iOS 16.6+
-- Uses SwiftUI and Combine
+- Uses SwiftUI
 
 ---
